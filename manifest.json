@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Network Logger",
+  "name": "Net Log",
   "version": "1.0",
   "permissions": [
     "webRequest",
